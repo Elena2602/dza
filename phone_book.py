@@ -31,7 +31,7 @@ class PhoneBook:
             file.write(data)
 
     def main_menu(self):
-        return '''Главное меню:
+        return ''' меню:
         1. Показать все контакты
         2. Создать контакт
         3. Найти контакт
